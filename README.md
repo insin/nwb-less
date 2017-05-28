@@ -2,7 +2,7 @@
 
 [![npm package][npm-badge]][npm]
 
-Plugin enabling a [Less](http://lesscss.org/) loading pipeline for `.less` files in [nwb](https://github.com/insin/nwb) using [less-loader](https://github.com/webpack/less-loader).
+Plugin enabling a [Less](http://lesscss.org/) loading pipeline for `.less` files in [nwb](https://github.com/insin/nwb#readme) using [less-loader](https://github.com/webpack-contrib/less-loader#readme).
 
 ## Usage
 
