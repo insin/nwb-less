@@ -1,13 +1,13 @@
 {
   "name": "nwb-less",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Less plugin for nwb",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "less": "3.0.1",
+    "less": "3.8.0",
     "less-loader": "4.1.0"
   },
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
