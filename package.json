@@ -1,6 +1,6 @@
 {
   "name": "nwb-less",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Less plugin for nwb",
   "main": "index.js",
   "files": [
